@@ -35,7 +35,7 @@ The repository documents the detection and remediation of:
 
 ## 📄 How to Read the Report
 The full technical thesis, including configuration steps, forensic artifacts, and compliance audits, is available in the file:
-👉 **[Design_and_Implementation_Healthcare_SME.pdf](./Design_and_Implementation_of_a_Secureand_Compliant_iT_Infrastructure_for_a_Healthcare_SME_under_GDPR_and_NIS2.pdf)**
+👉 **[Design_and_Implementation_Healthcare_SME.pdf](./Healthcare_Infrastructure_Security_Report.pdf)**
 
 ---
 *Created by Uthman Oluwadamilare Ismail - 2026*
